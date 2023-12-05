@@ -1,3 +1,3 @@
 # xfilter
 AdblockPlus format filter for X (formerly twitter.com).
-Specialized in PWA version X.
+Specialized in PWA version of X.
